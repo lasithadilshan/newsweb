@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "newsweb"
+    }
+  },
+  "defaultProject": "newsweb",
+  "cli": {
+    "analytics": false
+  }
 }
